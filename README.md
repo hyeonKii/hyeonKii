@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:abdaf7,100:abb4f7&height=250&section=header&text=hyeonki%20github&animation=fadeIn&fontSize=90)
 
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
-
 <div align="center">
   <h3>📜 Tech Stack </h3>
   <p>Platform & Languages</p>
@@ -35,14 +33,9 @@
 </div>
 
 <div align=center>
-	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=hyeonKii&show_icons=true">
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
-
-<br>
-
+![hyeonki's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hyeonKii)
+</div>
 
 
 
