@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>📜 Tech Stack </h3>
-  <p>Platform & Languages</p>
+  <p>💻Platform & Languages💻</p>
 </div>
 
 <div align="center">
