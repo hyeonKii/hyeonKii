@@ -26,7 +26,7 @@
   <h3>🛠 Tools </h3>
 </div>
 
-<div align=center>
+<div align="center">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
@@ -34,7 +34,9 @@
 </div>
 
 <br>
-<div align=center>
+<br>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii&layout=compact">
 </div>
 
