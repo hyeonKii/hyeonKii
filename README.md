@@ -38,6 +38,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii)](https://github.com/hyeonKii/github-readme-stats)
 </div>
 
 
