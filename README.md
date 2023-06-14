@@ -37,6 +37,17 @@
 <br>
 
 <div align="center">
+  <h3>🖥️ OS </h3>
+</div>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
+<br>
+
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii">
 </div>
 
