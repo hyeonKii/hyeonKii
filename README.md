@@ -51,6 +51,14 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii">
 </div>
 
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/hyeonKii">
+    <img src="https://komarev.com/ghpvc/?username=hyeonKii&color=blue&style=for-the-badge)" />
+  </a>
+</p>
 
 
 
