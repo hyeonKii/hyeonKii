@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:abdaf7,100:abb4f7&height=250&section=header&text=hyeonki%20github&animation=fadeIn&fontSize=90)
 
 <div align="left">
-  <h3>📜💻FrontEnd Tech Stack</h3>
+  <h3>📜FrontEnd Tech Stack</h3>
 </div>
 
 <div align="left">
@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">Ï
 </div>
 
+<br>
+
 <div align="left">
-  <h3>📜💻BackEnd Tech Stack</h3>
+  <h3>📜BackEnd Tech Stack</h3>
 </div>
 
 <div>
