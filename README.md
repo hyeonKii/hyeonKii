@@ -26,11 +26,11 @@
  
  <br>
  
-<div align="center">
+<div align="left">
   <h3>🛠 Tools </h3>
 </div>
 
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
@@ -39,25 +39,25 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h3>🖥️ OS </h3>
 </div>
 
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii">
 </div>
 
 <br>
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/hyeonKii">
     <img src="https://komarev.com/ghpvc/?username=hyeonKii&color=blue&style=for-the-badge)" />
   </a>
