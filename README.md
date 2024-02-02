@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:abdaf7,100:abb4f7&height=200&section=header&text=Hyeonki's%20github&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:abdaf7,100:abb4f7&height=220&section=header&text=Hyeonki's%20github&animation=fadeIn&fontSize=70)
 
 <div align="left">
   <h3>📜FrontEnd Tech Stack</h3>
