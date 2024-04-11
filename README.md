@@ -1,4 +1,4 @@
-## Hello, I'm hyeonki Kim!
+## Hello, I'm hyeonki Kim👋
 
 ### I'm Frontend-Developer
 
