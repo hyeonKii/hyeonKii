@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-	Pyhon | SQL
+	Python | SQL
 </div>
 
 <br>
