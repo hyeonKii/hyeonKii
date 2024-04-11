@@ -8,7 +8,10 @@
 
 <div align="left">
   Javascript | Typescript | React | Next.JS | Recoil | React-Query | Styled-components | Tailwind
-  Pyhon | SQL
+</div>
+
+<div align="left">
+	Pyhon | SQL
 </div>
 
 <br>
