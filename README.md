@@ -1,6 +1,6 @@
-### Hello, I'm hyeonki Kim
+## Hello, I'm hyeonki Kim!
 
-- I'm Frontend-Developer
+### I'm Frontend-Developer
 
 <div align="left">
   <h3>📜FrontEnd Tech Stack</h3>
