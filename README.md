@@ -1,7 +1,5 @@
 ## Hello, I'm hyeonki Kim👋
 
-### I'm Frontend-Developer and Data Engineer.
-
 <div align="left">
   <h3>📜Tech Stack</h3>
 </div>
