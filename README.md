@@ -46,13 +46,6 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
-<br>
-
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonKii">
-</div>
-
-
 
 
 
