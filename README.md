@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-  Javascript | Typescript | React | Next.JS | Recoil | React-Query | styled-components | Tailwind CSS
+  Javascript | Typescript | React | Next.JS | Recoil | React-Query | SCSS | Tailwind CSS | styled-components
 </div>
 
 <div align="left">
