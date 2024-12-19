@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-  Javascript | Typescript | React | Next.JS | Recoil | React-Query | SCSS | Tailwind CSS | styled-components
+  Javascript | Typescript | React | NextJS | Recoil | React-Query | SCSS | Tailwind CSS | styled-components
 </div>
 
 <div align="left">
@@ -19,7 +19,7 @@
 </div>
 
 <div>
-  Node.JS | MongoDB | FireBase | MYSQL | BigQuery
+  NodeJS | MongoDB | FireBase | MYSQL | BigQuery
 </div>
  
  <br>
