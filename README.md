@@ -5,11 +5,11 @@
 </div>
 
 <div align="left">
-  Javascript | Typescript | React | NextJS | Recoil | React-Query | SCSS | Tailwind CSS | styled-components
+  Typescript | React | Nextjs | Zustand | Tanstack-Query | Tailwind | SCSS
 </div>
 
 <div align="left">
-	Python | SQL
+	C# | Python
 </div>
 
 <br>
@@ -19,7 +19,7 @@
 </div>
 
 <div>
-  NodeJS | MongoDB | FireBase | MYSQL | BigQuery
+  NodeJS | MongoDB | FireBase | MS-SQL | MYSQL | Nginx | Jenkins
 </div>
  
  <br>
